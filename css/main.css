@@ -102,13 +102,13 @@ i {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #75E6DA;
+    color: #0052CC;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-    color: #191A3F;
+    color: #0045ab;
 }
 
 a:focus {
